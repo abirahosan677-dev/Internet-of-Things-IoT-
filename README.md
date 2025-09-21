@@ -1,4 +1,5 @@
 Smart Silent Sound Spike & Temperature Detector
+
 Overview
 
 The Smart Silent Sound Spike & Temperature Detector is an Arduino-based project designed to detect sudden sound spikes and temperature changes. It uses a sound sensor to detect claps or loud noises and a temperature sensor to monitor the surrounding environment. When certain thresholds are exceeded, it triggers visual (LED) and auditory (buzzer) alerts. The system can also be muted with a button.
